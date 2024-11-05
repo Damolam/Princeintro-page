@@ -1,0 +1,31 @@
+body{
+	background-color: white;
+	text-align: center;
+}
+.head{
+}
+.center{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+h1 {
+	font-style: courie;}
+
+strong{
+	font-family: cursive;
+	font-weight: 900;
+	font-size: 50px;
+}
+img{	
+	border: 5px solid black;
+	border-radius: 50%;
+	height: 180px;
+	width: 15%;
+}
+.flex{
+	display: flex;
+	justify-content: space-around;
+	gap: 30px;
+}
